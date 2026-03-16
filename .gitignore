@@ -1,0 +1,7 @@
+data/groceries.json
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
